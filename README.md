@@ -58,9 +58,4 @@ The key objectives of this project are:
 * **Python packages**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `imbalanced-learn`, `xgboost`, `lightgbm`.
 * **Optional**: `SHAP` or `LIME` for explainability of model predictions.
 
-## Evaluation Criteria
-The project will be evaluated based on the following:
-* **EDA & Financial Insight**: 30% (Visuals, trends, financial interpretation) 
-* **Class Imbalance & Model Performance**: 30% (Balancing, tuning, metric evaluation)
-* **Feature Engineering & Metric Justification**: 20% (New features, threshold reasoning) 
-* **Code Quality & Report**: 20% (Clean code, clear summary)
+
